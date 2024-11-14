@@ -1,4 +1,4 @@
-# 🐙 Diagramas do Projeto: 
+# 💚 Diagramas do Projeto: 
 
 # Modelo Entidade Relacionamento (MER)
 Como o nome sugere, é um modelo conceitual utilizado na Engenharia de Software para descrever os objetos (entidades) envolvidos em um domínio de negócios, com suas características (atributos) e como elas se relacionam entre si (relacionamentos).
