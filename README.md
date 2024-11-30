@@ -25,7 +25,7 @@ O objetivo deste projeto é desenvolver um programa de voluntariado para funcion
 - [x] Protótipo navegável - Figma
 - [x] Modelo Conceitual - DER (Diagrama de Entidade e Relacionamento)
 - [x]  Modelo Lógico - MER (Modelo de Entidade e Relacionamento)
-- [ ] Modelo Físico - DML(Data Manipulation Language)
+- [x] Modelo Físico - DML(Data Manipulation Language)
  
 
 
